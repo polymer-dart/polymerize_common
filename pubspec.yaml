@@ -1,3 +1,6 @@
 name: polymerize_common
 version: 1.0.0
 
+author: polymer-dart <info@polymer-dart.com>
+description: common definitions for polymerize
+homepage: https://github.com/polymer-dart/polymerize_common
